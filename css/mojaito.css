@@ -1,0 +1,17 @@
+body
+{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+ul li 
+{
+    list-style-position: inside;
+    background-color: antiquewhite;
+}
+
+ol li 
+{
+    list-style-position: inside;
+    background-color: antiquewhite;  
+}
